@@ -1,0 +1,4 @@
+.gradle/
+.idea/
+Application/build/
+build/
